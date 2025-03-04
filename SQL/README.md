@@ -1,1 +1,1 @@
-SQL challenges will go here :)
+In this folder you will find SQL challenges from HackerRank.

@@ -1,1 +1,1 @@
-Linux Shell challenges will go here :)
+In this folder you will find Linux BASH challenges from HackerRank.
